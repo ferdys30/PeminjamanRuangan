@@ -1,0 +1,15 @@
+D:\Ferdy\Kuliah\Semester 3\Pemograman VIsual\Project\Peminjaman Ruangan\Peminjaman Ruangan\obj\Debug\Peminjaman Ruangan.vbproj.AssemblyReference.cache
+D:\Ferdy\Kuliah\Semester 3\Pemograman VIsual\Project\Peminjaman Ruangan\Peminjaman Ruangan\obj\Debug\Peminjaman Ruangan.vbproj.SuggestedBindingRedirects.cache
+D:\Ferdy\Kuliah\Semester 3\Pemograman VIsual\Project\Peminjaman Ruangan\Peminjaman Ruangan\obj\Debug\Peminjaman_Ruangan.Login.resources
+D:\Ferdy\Kuliah\Semester 3\Pemograman VIsual\Project\Peminjaman Ruangan\Peminjaman Ruangan\obj\Debug\Peminjaman_Ruangan.Main.resources
+D:\Ferdy\Kuliah\Semester 3\Pemograman VIsual\Project\Peminjaman Ruangan\Peminjaman Ruangan\obj\Debug\Peminjaman_Ruangan.Resources.resources
+D:\Ferdy\Kuliah\Semester 3\Pemograman VIsual\Project\Peminjaman Ruangan\Peminjaman Ruangan\obj\Debug\Peminjaman_Ruangan.Regist.resources
+D:\Ferdy\Kuliah\Semester 3\Pemograman VIsual\Project\Peminjaman Ruangan\Peminjaman Ruangan\obj\Debug\Peminjaman Ruangan.vbproj.GenerateResource.cache
+D:\Ferdy\Kuliah\Semester 3\Pemograman VIsual\Project\Peminjaman Ruangan\Peminjaman Ruangan\obj\Debug\Peminjaman Ruangan.vbproj.CoreCompileInputs.cache
+D:\Ferdy\Kuliah\Semester 3\Pemograman VIsual\Project\Peminjaman Ruangan\Peminjaman Ruangan\bin\Debug\Peminjaman Ruangan.exe.config
+D:\Ferdy\Kuliah\Semester 3\Pemograman VIsual\Project\Peminjaman Ruangan\Peminjaman Ruangan\bin\Debug\Peminjaman Ruangan.exe
+D:\Ferdy\Kuliah\Semester 3\Pemograman VIsual\Project\Peminjaman Ruangan\Peminjaman Ruangan\bin\Debug\Peminjaman Ruangan.pdb
+D:\Ferdy\Kuliah\Semester 3\Pemograman VIsual\Project\Peminjaman Ruangan\Peminjaman Ruangan\bin\Debug\Peminjaman Ruangan.xml
+D:\Ferdy\Kuliah\Semester 3\Pemograman VIsual\Project\Peminjaman Ruangan\Peminjaman Ruangan\obj\Debug\Peminjaman Ruangan.exe
+D:\Ferdy\Kuliah\Semester 3\Pemograman VIsual\Project\Peminjaman Ruangan\Peminjaman Ruangan\obj\Debug\Peminjaman Ruangan.xml
+D:\Ferdy\Kuliah\Semester 3\Pemograman VIsual\Project\Peminjaman Ruangan\Peminjaman Ruangan\obj\Debug\Peminjaman Ruangan.pdb
